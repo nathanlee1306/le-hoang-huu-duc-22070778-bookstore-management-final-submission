@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author: MyString
+  publisher: MyString
+  year: 1
+  pirce_vnd: 1
+  in_stock: false
+  genre: one
+
+two:
+  title: MyString
+  author: MyString
+  publisher: MyString
+  year: 1
+  pirce_vnd: 1
+  in_stock: false
+  genre: two
